@@ -15,7 +15,7 @@ public class Main {
             System.out.println("a = " + a);
 
         }
-        System.out.println("завершение Main");
+        System.out.println("end Main");
 
     }
 }

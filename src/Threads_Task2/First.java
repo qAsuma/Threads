@@ -12,6 +12,6 @@ public class First implements Runnable {
             }
 
         }
-        System.out.println("завершение First");
+        System.out.println("end First");
     }
 }

@@ -12,6 +12,6 @@ public class Second implements Runnable {
             }
 
         }
-        System.out.println("завершение Second");
+        System.out.println("end Second");
     }
 }
